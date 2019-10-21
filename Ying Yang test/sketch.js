@@ -31,3 +31,10 @@ function draw() {
 
   ang += 0.035;
 }
+
+class Yinyang {
+  constructor(x, y, r, ang) {
+    this.x = x;
+    this.y = y;
+  }
+}

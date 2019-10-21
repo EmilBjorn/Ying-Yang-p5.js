@@ -28,5 +28,6 @@ function draw() {
   fill(0, 0, 0);
 
   ellipse(x2, y2, 2 * r, 2 * r);
+
   ang += 0.03;
 }

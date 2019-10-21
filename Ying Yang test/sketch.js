@@ -29,5 +29,5 @@ function draw() {
 
   ellipse(x2, y2, 2 * r, 2 * r);
 
-  ang += 0.03;
+  ang += 0.035;
 }

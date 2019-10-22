@@ -36,5 +36,6 @@ class Yinyang {
   constructor(x, y, r, ang) {
     this.x = x;
     this.y = y;
+    this.ang = ang;
   }
 }

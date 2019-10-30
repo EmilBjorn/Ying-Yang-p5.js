@@ -24,6 +24,14 @@ function draw() {
   Y2.show();
 }
 
+
+function generatePattern(n) {
+  let coords = [];
+  for (let i = 0; i < n; i++) {
+
+  }
+}
+
 class Yinyang {
   constructor(x, y, size, angRadius = 2 * r, clockwise) {
     this.vector = createVector(x, y);
